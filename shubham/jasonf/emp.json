@@ -1,0 +1,8 @@
+{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red",
+    "a": ["red","blue","green" ],
+    "b":[ {"blue": "abc" , "city": "new" }]
+     
+}
